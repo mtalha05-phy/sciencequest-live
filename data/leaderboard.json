@@ -1,0 +1,14 @@
+{
+  "testviewer": {
+    "username": "testviewer",
+    "points": 1155,
+    "predictions_made": 7,
+    "predictions_correct": 7,
+    "accuracy_pct": 100.0,
+    "current_streak": 7,
+    "best_streak": 7,
+    "badges": [
+      "badge_quantum_explorer"
+    ]
+  }
+}
